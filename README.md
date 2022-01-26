@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, html5&css3 also other electronic things etc. arduino
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord:OraksizAzrail#8298
+- 📫 How to reach me discord: OraksizAzrail#2623
 
 <!---
 AkifOzcelik/AkifOzcelik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
