@@ -112,4 +112,4 @@ async def close(ctx):
     await ctx.channel.delete()
 
 
-client.run("OTM1MjU2ODEzNzY1NTU4MzMy.Ye7_yA.XlC-VfgKtu8UPFe2OeK3Q7NoqFM")
+client.run('TOKEN')
