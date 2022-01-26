@@ -14,4 +14,4 @@ async def on_member_join(member):
 async def on_member_remove(member):
     print(f"**{member}** aramızdan ayrıldı")
 
-Bot.run('OTI5NDk1MjM4NDMzNzEwMDkw.YdoJ5g.nQuhtNmi49dMhTg7o-v-ji26pi4')
+Bot.run('TOKEN')
