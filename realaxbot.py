@@ -22,4 +22,4 @@ async def server(msg):
 
 
 
-Bot.run('OTI5NDk1MjM4NDMzNzEwMDkw.YdoJ5g.nQuhtNmi49dMhTg7o-v-ji26pi4')
+Bot.run('TOKEN')
