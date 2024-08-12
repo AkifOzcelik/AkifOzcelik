@@ -1,8 +1,10 @@
-Hi 👋 My name is Akif Özçelik
+Hi 👋 I'm Akif Özçelik
 =============================
 
 Machiene Learning Specialist
 ----------------------------
+
+<p align="center"><img src="https://lanyard.cnrad.dev/api/706815439975612417)](https://discord.com/users/706815439975612417" /></p>
 
 I am a 16-year-old highschooler who has been learning programming for 6+ years now. I started with Arduino but have since switched many times to fields like web development, app development and now machine learning.
 
