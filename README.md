@@ -4,12 +4,10 @@ Hi 👋 I'm Akif Özçelik
 Machiene Learning Specialist
 ----------------------------
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/706815439975612417)](https://discord.com/users/706815439975612417" /></p>
-
 I am a 16-year-old highschooler who has been learning programming for 6+ years now. I started with Arduino but have since switched many times to fields like web development, app development and now machine learning.
 
 * 🌍  I'm based in Freiburg im Breisgau
-* 🖥️  See my portfolio at [Portfolio](http://akifdev.tech)
+* 🖥️  See my portfolio at [my website](http://akifdev.tech)
 * ✉️  You can contact me at [akifozcelik.de@gmail.com](mailto:akifozcelik.de@gmail.com)
 * 🤝  I'm open to collaborating on new startups and freelance projects
 
