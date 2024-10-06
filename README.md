@@ -1,9 +1,6 @@
 Hi 👋 I'm Akif Özçelik
 =============================
 
-Machiene Learning Specialist
-----------------------------
-
 I am a 16-year-old highschooler who has been learning programming for 6+ years now. I started with Arduino but have since switched many times to fields like web development, app development and now machine learning.
 
 * 🌍  I'm based in Freiburg im Breisgau
