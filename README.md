@@ -4,7 +4,7 @@ Hi 👋 I'm Akif Özçelik
 I am a 16-year-old highschooler who has been learning programming for 6+ years now. I started with Arduino but have since switched many times to fields like web development, app development and now machine learning.
 
 * 🌍  Based in Freiburg im Breisgau
-* 🖥️  See my portfolio at [my website](http://akifdev.tech)
+* 🖥️  See my portfolio at [my website](http://akifozcelik.com)
 * ✉️  You can contact me at [akifozcelik.de@gmail.com](mailto:akifozcelik.de@gmail.com)
 * 🤝  Open to collaborating on new startups and freelance projects
 
