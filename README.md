@@ -1,7 +1,7 @@
 Hi 👋 I'm Akif Özçelik
 =============================
 
-I am a 17-year-old highschooler who has been learning programming for 6+ years now. I started with Arduino but have since switched many times to fields like web development, app development and now machine learning.
+I am a 18-year-old highschooler who has been learning programming for 7+ years now. I started with Arduino but have since switched many times to fields like web development, app development and now machine learning.
 
 * 🌍  Based in Freiburg im Breisgau
 * 🖥️  See my portfolio at [my website](http://akifozcelik.com)
